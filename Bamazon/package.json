@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon",
+  "main": "Bamazon.js",
+  "scripts": {
+    "test": "node bamazon.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keith98/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "keith98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keith98/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Keith98/Bamazon#readme"
+}
